@@ -1,0 +1,36 @@
+﻿body {
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+img{
+    border-radius:25px;
+    /*position:fixed;*/
+    left:200px;
+}
+
+section{
+    position:absolute;
+    border:2px;
+    left:900px;
+    top:20px;
+}
+
+article{
+    /*border-style:dotted;*/
+    background-color: #d5e3ed;
+    padding: 3px;
+    border-radius: 30px;
+    width: 450px;
+}
+
+
+
+/*#aboutMe{
+    border-bottom:5px;
+}*/
+
+#experience{
+    position:relative; left:645px; top:-215px;
+}
+
